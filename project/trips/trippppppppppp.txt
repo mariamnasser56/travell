@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Travel Website</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="navbar">
+
+    <h1><span class="BB">B</span>OOKING</h1>
+  </div>
+
+  <div class="body">
+
+    <div class="tours">
+      <div class="places">
+
+        <img src="sarm-el-seyh-shaba-cami.jpg" style="width: 300px; height: 250px">
+        <div class="card-body">
+          <h3>SHARM-ELSHEIKH</h3>
+          <br>
+          <p>Sharm El-Sheikh is a popular beach resort town known for its crystal-clear waters, coral reefs, and
+            world-class diving and snorkeling.</p>
+          <br>
+          <h6>Price: <strong>$1000</strong></h6>
+          <br>
+          <button>
+            <a href="#book">Book Now</a>
+          </button>
+        </div>
+        <br>
+        <br>
+      </div>
+
+      <div class="places">
+
+        <img src="PYR.jpg" style="width: 300px; height: 250px; ">
+        <div class="card-body">
+          <h3>PYRAMIDS</h3>
+          <br>
+          <p>Giza: Home to the iconic Great Pyramids and the Sphinx, Giza is an ancient city located on the outskirts of
+            Cairo, Egypt..</p>
+          <br>
+          <h6>Price: <strong>$300</strong></h6>
+          <br>
+          <button>
+            <a href="#book">Book Now</a>
+          </button>
+        </div>
+        <br>
+        <br>
+
+      </div>
+
+
+      <div class="places">
+
+        <img src="aswan.jpg" style="width: 300px; height: 250px; ">
+        <div class="card-body">
+          <h3>ASWAN</h3>
+          <br>
+          <p>A city on the Nile River in southern Egypt, Aswan is known for its picturesque setting, ancient temples and
+            the towering Aswan High Dam.</p>
+          <br>
+          <h6>Price: <strong>$1200</strong></h6>
+          <br>
+          <button>
+            <a href="#book">Book Now</a> </button>
+        </div>
+        <br>
+        <br>
+      </div>
+      <div class="places">
+
+        <img src="Marsa-Alam_1.jpg" style="width: 300px; height: 250px; ">
+        <div class="card-body">
+          <h3>MARSA-ALAM</h3>
+          <br>
+          <p>Marsa Alam is a quieter alternative to more bustling Egyptian resort towns, offering pristine beaches,
+            excellent diving opportunities, and a relaxed, laid-back atmosphere.</p>
+          <br>
+          <h6>Price: <strong>$1200</strong></h6>
+          <br>
+          <button>
+            <a href="#book">Book Now</a> </button>
+        </div>
+      </div>
+      <div class="places">
+
+        <img src="hur.jpg" style="width: 300px; height: 250px; ">
+        <div class="card-body">
+          <h3>HUGHRDAA</h3>
+          <br>
+          <p>Hurghada is known for its stunning beaches, lively nightlife, and numerous water sports activities,
+            including diving and windsurfing.</p>
+          <br>
+          <h6>Price: <strong>$1200</strong></h6>
+          <br>
+          <button>
+            <a href="#book">Book Now</a> </button>
+        </div>
+        <br>
+        <br>
+      </div>
+      <div class="places">
+
+        <img src="640px-QaitbeyCitadel2.jpg" style="width: 300px; height: 250px; ">
+        <div class="card-body">
+          <h3>ALEXANDRIA</h3>
+          <br>
+          <p>Alexandria is a historic city located on the Mediterranean coast of Egypt, known for its ancient landmarks
+            and cultural significance.</p>
+          <br>
+          <h6>Price: <strong>$1200</strong></h6>
+          <br>
+          <button>
+            <a href="#book">Book Now</a> </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
+
+Ain Sokhna is a resort town located on the western shore of the Red Sea in Egypt. It is a popular destination for tourists and locals alike, known for its beautiful beaches and crystal clear waters.
